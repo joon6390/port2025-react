@@ -14,3 +14,13 @@
 @import "section/port";
 @import "section/contact";
 @import "section/footer";
+
+// styles.scss
+
+.header__logo {
+    a {
+      font-size: 2rem; // 포트폴리오 글자의 크기를 크게 설정
+      font-weight: bold; // 포트폴리오 글자를 두껍게 설정
+    }
+}
+  
